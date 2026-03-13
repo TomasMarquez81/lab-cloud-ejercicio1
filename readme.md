@@ -16,6 +16,7 @@ Inicializo el repositorio y subo el código a la rama `main`:
 git init
 git add .
 git commit -m "first commit"
+git branch -M main
 git remote add origin https://github.com/TomasMarquez81/lab-cloud-ejercicio1.git
 git push -u origin main
 ```
